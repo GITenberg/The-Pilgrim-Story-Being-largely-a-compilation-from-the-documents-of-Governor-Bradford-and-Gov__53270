@@ -1,5 +1,5 @@
 _repo: The-Pilgrim-Story-Being-largely-a-compilation-from-the-documents-of-Governor-Bradford-and-Gov__53270
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributors:
   - agent_name: Bradford, William
@@ -17,12 +17,17 @@ contributor:
     agent_name: Schreiber, Leo
     gutenberg_agent_id: '47297'
     url: http://www.gutenberg.org/2009/agents/47297
+covers:
+- cover_type: archival
+  image_path: 53270-h/images/cover.jpg
 creator:
   author:
     agent_name: Atwood, William Franklin
     gutenberg_agent_id: '47296'
     url: http://www.gutenberg.org/2009/agents/47296
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53270#The-Pilgrim-Story-Being-largely-a-compilation-from-the-documents-of-Governor-Bradford-and-Gov_
 gutenberg_issued: '2016-10-13'
 gutenberg_type: Text
 identifiers:
