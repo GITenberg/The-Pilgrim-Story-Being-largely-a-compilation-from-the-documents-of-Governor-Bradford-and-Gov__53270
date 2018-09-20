@@ -1,0 +1,42 @@
+_repo: The-Pilgrim-Story-Being-largely-a-compilation-from-the-documents-of-Governor-Bradford-and-Gov__53270
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Bradford, William
+    birthdate: 1590
+    deathdate: 1657
+    gutenberg_agent_id: '26830'
+    url: http://www.gutenberg.org/2009/agents/26830
+    wikipedia: http://en.wikipedia.org/wiki/William_Bradford_%28Plymouth_governor%29
+  - agent_name: Winslow, Edward
+    birthdate: 1595
+    deathdate: 1655
+    gutenberg_agent_id: '48231'
+    url: http://www.gutenberg.org/2009/agents/48231
+  illustrator:
+    agent_name: Schreiber, Leo
+    gutenberg_agent_id: '47297'
+    url: http://www.gutenberg.org/2009/agents/47297
+creator:
+  author:
+    agent_name: Atwood, William Franklin
+    gutenberg_agent_id: '47296'
+    url: http://www.gutenberg.org/2009/agents/47296
+description: ''
+gutenberg_issued: '2016-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53270'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F001'
+- !lcsh 'Massachusetts -- History -- New Plymouth, 1620-1691'
+- !lcsh 'Pilgrims (New Plymouth Colony)'
+- GITenberg
+title: "The Pilgrim Story\r\nBeing largely a compilation from the documents of Governor\
+  \ Bradford and Governor Winslow, severally and in collaboration; together with a\
+  \ list of Mayflower passengers."
+url: http://www.gutenberg.org/ebooks/53270
